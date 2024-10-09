@@ -1,0 +1,37 @@
+.productnav{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid;
+  }
+  
+  .productnavwrapper{
+    display: flex;
+    gap: 5.5rem;
+  }
+  
+  .navtitle{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    letter-spacing: 3px;
+    font-style: italic;
+  }
+  .productsection{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.producttittle{
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 90px;
+    word-spacing: 3px;
+    letter-spacing: 4px;
+    font-style: italic;
+    font-weight:  100;
+  }

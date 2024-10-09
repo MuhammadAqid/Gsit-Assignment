@@ -1,0 +1,35 @@
+.navbar{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid;
+  }
+  
+  .navwrapper{
+    display: flex;
+    gap: 5.5rem;
+  }
+  
+  .navtittle{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    letter-spacing: 3px;
+    font-style: italic;
+  }
+  .pagesection{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.pagetittle{
+    font-size: 90px;
+    word-spacing: 3px;
+    letter-spacing: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+  }

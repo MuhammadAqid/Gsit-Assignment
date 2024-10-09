@@ -1,0 +1,37 @@
+.aboutnav{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid;
+  }
+  
+  .aboutnavwrapper{
+    display: flex;
+    gap: 5.5rem;
+  }
+  
+  .title{
+    font-size: 50px;
+    font-family: fantasy;
+    font-weight: 300;
+    text-decoration: underline;
+    letter-spacing: 3px;
+    font-style: italic;
+  }
+  .aboutsection{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.abouttittle{
+    text-decoration: underline;
+    font-size: 90px;
+    word-spacing: 3px;
+    letter-spacing: 4px;
+    font-family: fantasy;
+    font-weight:  300;
+  }
